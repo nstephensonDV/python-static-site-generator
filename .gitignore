@@ -69,7 +69,3 @@ instance/
 # Virtualenv
 venv/
 .venv/
-
-# Solution and project file
-.sln
-.pyproj
